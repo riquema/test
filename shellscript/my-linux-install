@@ -1,0 +1,5 @@
+#!/bin/sh
+apt-get update # to get the latest package list
+apt-get install fish -y
+apt-get install curl -y
+
